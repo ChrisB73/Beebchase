@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpriteSheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Mode="5">
+  <BackgroundColour>Transparent</BackgroundColour>
+  <DefaultPalette>
+    <Colour>Green</Colour>
+    <Colour>Red</Colour>
+    <Colour>Blue</Colour>
+    <Colour>White</Colour>
+  </DefaultPalette>
+  <DefaultShowGridLines>true</DefaultShowGridLines>
+  <HorizontalBlockDividers>1</HorizontalBlockDividers>
+  <VerticalBlockDividers>1</VerticalBlockDividers>
+  <DefaultZoom>8</DefaultZoom>
+  <HasSetExportSettings>true</HasSetExportSettings>
+  <SpriteLayout>RowMajor</SpriteLayout>
+  <ShouldBreakSprites>false</ShouldBreakSprites>
+  <SubSpriteWidth>2</SubSpriteWidth>
+  <SubSpriteHeight>2</SubSpriteHeight>
+  <ShouldExportSeparateMask>true</ShouldExportSeparateMask>
+  <ShouldGenerateHeader>true</ShouldGenerateHeader>
+  <AssemblerSyntax>{n} = &amp;{v}</AssemblerSyntax>
+  <SpriteList>
+    <Sprite Name="Far Left" Width="8" Height="8">
+      <Bitmap>//8CAv////////8C//////8CAgIC//////8CAgL/////AgICAgL///8CAv8CAv////8C/wL//////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Med Left" Width="8" Height="8">
+      <Bitmap>////AgL///////8CAv////8CAgIC//////8CAgIC/////wICAgIC////Av8C/wL///8C/wICAv///wL//wL//w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Near Left" Width="8" Height="16">
+      <Bitmap>/wL/////////AgL//////wICAgL/////AgICAgL/////AgIC//////8CAgIC//////8CAgL///////8CAv///////wIC/////////wIC////////Av////////////////////////////////////////////////////////8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Range Left" Width="8" Height="16">
+      <Bitmap>/wIC////////AgIC//////8CAgIC////AgICAgICAv8CAgICAgIC/wICAgICAv8CAgICAgICAv8CAgICAgIC//8CAgICAgL//wICAgICAv8CAgICAgICAv8CAgICAgL/////AgICAv///////wIC////////AgIC////////AgI=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Far Centre" Width="8" Height="8">
+      <Bitmap>//////////////8C/////////wL///////8CAgL///////8C/////////wL/////////Av///////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Med Centre" Width="8" Height="8">
+      <Bitmap>////Av///////wICAv////8CAgICAv////8CAgL///////8C/////////wL/////////Av////////8C/////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Near Centre" Width="8" Height="16">
+      <Bitmap>////AgL///////8CAv//////AgICAv////8CAgIC////AgICAgIC////AgICAv////8CAgIC//////8CAv///////wIC////////AgL///////8CAv///////wIC//////////////////////////////////////////////8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Range Centre" Width="8" Height="16">
+      <Bitmap>////AgL///////8CAv//////AgICAv////8CAgIC////AgICAgIC//8CAgICAgL//wICAgICAv//AgICAgIC////AgICAv////8CAgIC//////8CAv//////AgICAv//////AgL///////8CAv///////wIC////////AgL///8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Far Right" Width="8" Height="8">
+      <Bitmap>////AgL///////8C////////AgICAv////8CAgL/////AgICAgL///8CAv8CAv////8C/wL//////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Med Right" Width="8" Height="8">
+      <Bitmap>////AgL///////8CAv///////wICAgL///8CAgIC////AgICAgL///8C/wL/Av///wICAv8C/////wL//wL//w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Near Right" Width="8" Height="16">
+      <Bitmap>////////Av///////wIC//////8CAgIC////AgICAgL/////AgIC/////wICAgL/////AgIC//////8CAv///////wIC//////8CAv////////8C//////////////////////////////////////////////////////////8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Range Right" Width="8" Height="16">
+      <Bitmap>//////8CAv//////AgIC/////wICAgL//wICAgICAgL/AgICAgICAgL/AgICAgIC/wICAgICAgL/AgICAgICAv8CAgICAgL//wICAgICAv8CAgICAgICAv8CAgICAgL//wICAgL/////AgL//////wICAv//////AgL///////8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="HandleL" Width="32" Height="16">
+      <Bitmap>////////////////AwMD/////////////wICAv///////////////////wAAAwMD//////////8CAgICAv////////////////8DAwADAwMD////////AgICAgICAv//////////////AwMDAwADAwMD//////8CAgICAgIC//////////////8DAwMDAAMDAwMD////AgICAgICAgIC/////////////wMDAwMDAAMDAwMA/wMCAgICAgICAgL/////////////AwMDAwMAAwMDAwD/AwICAgICAgICAv////////////8DAwMDAwMAAwMAAAMDAgICAgEDAQL///////8CAgIC//8DAwMDAwMDAAAAAwMCAgIDAgICA///////AgICAgIC//8DAwMDAwAAAAMDAwICAgECAgIC/////wICAgICAgL///8DAwAAAAAAAwMDAgIDAgICAgL/////AgICAgICAgMD/wAAAAMBAwADA///AgECAgIC//////8CAgICAgICAwMDAAAAAwEDAwP///8CAwICAgIC/////wICAgICAgIDAwMAAAADAwEDA/////8BAgICAgL/////AgICAgICAv8DAwMDAAADAQMD//////8CAgICAv//////AgICAgIC//8DAwMAAAMAAAP/////AgICAgIC//8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Black</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="HandleM" Width="32" Height="16">
+      <Bitmap>//////////////////8DAwMD////////////////////////////////////AwMAAAMD/////////////////////////////////wMDAwAAAwMD//////////////////////8CAgL/////AwMDAAADAwP/////AgIC////////////AgICAgL///8DAwMAAAMDA////wICAgIC/////////wICAgICAgL/AwMDAwAAAwMDA/8CAgICAgIC//////8CAgICAgICAgMAAwMDAAADAwMAAwICAgICAgIC/////wICAgICAgICAwADAwMDAwMDAwADAgICAgICAgL///8CAgICAgICAgIDAwAAAAMDAAAAAwMCAgICAgICAgL//wICAgICAgICAgMDAAAAAAAAAAADAwICAgICAgICAv//AgICAgICAgICAwMDAAAAAAAAAwMDAgICAgICAgIC//8CAgMBAwECAgIDAwMAAwEBAwADAwMCAgIBAwEDAgL//wIBAgICAwICAgMDAwADAQEDAAMDAwICAgMCAgIBAv//AgMCAgICAQIC/wMDAAMBAQMAAwP/AgIBAgICAgMC////AgICAgIDAv//AwMAAwEBAwADA///AgMCAgICAv////8CAgICAgEC//8DAwADAAADAAMD//8CAQICAgIC//8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Black</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="HandleR" Width="32" Height="16">
+      <Bitmap>/////wICAv////////////8DAwP///////////////////8CAgICAv//////////AwMDAAD/////////////////AgICAgICAv///////wMDAwMAAwP///////////////8CAgICAgIC//////8DAwMDAAMDAwP/////////////AgICAgICAgIC////AwMDAwMAAwMDA/////////////8CAgICAgICAgID/wADAwMDAAMDAwMD/////////////wICAgICAgICAgP/AAMDAwMAAwMDAwP//////////////wIBAwECAgICAwMAAAMDAAMDAwMDA///////////////AwICAgMCAgIDAwAAAAMDAwMDAwP//wICAgL///////8CAgICAQICAgMDAwAAAAMDAwMD//8CAgICAgL//////wICAgICAwICAwMDAAAAAAADA////wICAgICAgL//////wICAgIBAv//AwMAAwEDAAAA/wMDAgICAgICAv////8CAgICAgMC////AwMDAQMAAAADAwMCAgICAgIC/////wICAgICAf////8DAwEDAwAAAAMDAwICAgICAgL/////AgICAgL//////wMDAQMAAAMDAwP/AgICAgICAv////8CAgICAgL/////AwAAAwAAAwMD//8CAgICAgL///8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Black</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Bolt 1 L" Width="8" Height="8">
+      <Bitmap>AwMD//////8DAwMD/////wMDAwP/////AwMDAwP/////AwMDA/8D////AwP/A////////wP/A/////8D/wP//w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Bolt 2 L" Width="8" Height="8">
+      <Bitmap>//8DA///////AwMDA/////8DAwMDA////wMDAwP/A////wMD/wP///////8D/wP/////A/8D/////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Bolt 3 L" Width="8" Height="8">
+      <Bitmap>/////////////wMDA///////AwMD/wP///8DA/8D/wP/////A/8D////////A/8D/////////////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Bolt 4 L" Width="8" Height="8">
+      <Bitmap>/////////////////////////wP///////8DAwP///////8D/wP///////8D/////////////////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Bolt 1" Width="8" Height="8">
+      <Bitmap>////AwP//////wMDAwP/////AwMDA/////8DAwMD/////wMDAwP//////wMD//////8D/wP/A///A/8D/wP//w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Bolt 2" Width="8" Height="8">
+      <Bitmap>////AwP//////wMDAwP/////AwMDA/////8DAwMD//////8DA///////A/8D////////A/8D/////wP/A////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Bolt 3" Width="8" Height="8">
+      <Bitmap>////AwP///////8DA////////wMD/////////wP///////8D////////A/8D////////A/8D/////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Bolt 4" Width="8" Height="8">
+      <Bitmap>/////////////////////////wMD////////AwP///////8D//////////8D/////////////////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Bolt 1 R" Width="8" Height="8">
+      <Bitmap>//////8DAwP/////AwMDA/////8DAwMD////AwMDAwP/A/8DAwMD////A/8DA////wP/A////////wP/A////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Bolt 2 R" Width="8" Height="8">
+      <Bitmap>/////wMD//////8DAwMD////AwMDAwP//wP/AwMDA////wP/AwP///8D/wP///////8D/wP//////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Bolt 3 R" Width="8" Height="8">
+      <Bitmap>//////////////8DAwP///8D/wMDA///A/8D/wMD////A/8D/////wP/A////////////////////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Bolt 4 R" Width="8" Height="8">
+      <Bitmap>//////////////////////////8D////////AwMD/////wP/A////////wP//////////////////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="BikeExplosion" Width="16" Height="32">
+      <Bitmap>////////AwMDA///////////////A/8D/wMD////////////A/8D/wP/AwP//////////wMDAQMBA/8D////////AwMD/wMBAwEDAwP/////A/8DAwMBAwEDAwP/A////wMD/wMDAwEDAwP/A/8D//8D/wMBAwEDAQMBA/8DA///AwP/AwEDAQMBAwED/wP///8DAwEDAQMBAwEDAwMD//8DAwMDAQMBAwEDAQMD//8DA/8DAQMBAwEDAQMBAwP/A/8DAQMBAwEBAQMBA/8DAwMD/wMDAwEBAQEBAwED/wP/AwMDAwEBAQEBAQED/wMD//8DAwEDAQEBAQEDAQP/A/8DA/8DAQEBAQEBAQP/A///A/8DAQMBAQEBAQMBAwP//wMD/wMBAQEBAQEBA/8D////AwP/AwEBAQEBAwED/wP//wP/AwEDAQEBAwED/wP//wP/AwMDAQEBAQEDAQMD////A/8DAQMBAQEDAQMDA////wMDAQMBAwEDAQMBA/////8D/wMDAwEDAQMBAwP/////AwP/AwEDAQMDAwP///////8DAwMDAwMDAwMD/////////wMD/wMBA/8DA/////////8D/wP/A/8DA///////////AwP/A/8DA/////////////8DA/8D/wP///////////////8D/wP///////8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+  </SpriteList>
+</SpriteSheet>

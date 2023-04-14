@@ -1,0 +1,77 @@
+Deathchase conversion?
+
+Flip screen with rupture for scoreboard.
+
+Scoreboard = 3 lines
+
+Original 21 lines total screen - 168
+
+18 lines movement
+
+ORiginal width = 232 pixels
+
+Use 256 for easy calcs?
+
+18*128 = 4608 bytes + 768 scoreboard = 9984 bytes total screen.
+
+Screen 1 &5500
+Screen 2 &6900
+Scoreboard &7d00
+&12 difference.
+
+
+
+20 lines for main screen
+
+
+tree x as x position (0-127)+64 - 0 = inactive
+
+Mode 6 wrap
+&E00 - &4C00 Code (Moved down) 15872
+&1900 - &4c00 Code - 13056
+&4c00 - &6000 Buffer 1 (5120)
+&6000 - &6400 Scoreboard (1024)
+&6400 - &6C00 Temp storage? (2048) 
+&6C00 - &8000 Buffer 2 (5120)
+
+Mode 1 wrap
+&E00 - &3584 Data? - 3584
+&1900 - &1C00 Data - 300
+&1c00 - &3000 Buffer 1 (5120)
+&3000 - &3400 Scoreboard (1024)
+&3400 - &6C00 Code & data (14336) 
+&6C00 - &8000 Buffer 2 (5120)
+
+2 x random numbers for each tree.  Will give order for 4 sprites.
+
+Interrupts
+
+3 Is always White
+
+Top of screen
+0 > Day/night
+1 > Red
+2 > Green
+?3 > Yellow
+
+Below tree Top
+2 > Blue    ; Bike colour Blue/White?  Shot White
+Allows bikes to be over horizon
+
+What about shot yellow? - Bike Blue/yellow? - Bad guys?
+
+Middle of screen
+0 > Green
+
+bike sprite line 
+2 > Black 
+? 3> White
+
+Scoreboard 
+1 > Blue
+
+INit
+
+single line interrupt routine that changes the timer for each interrupt
+
+Screen decompress at &2600

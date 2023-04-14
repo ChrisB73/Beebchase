@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpriteSheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Mode="5">
+  <BackgroundColour>Transparent</BackgroundColour>
+  <DefaultPalette>
+    <Colour>Cyan</Colour>
+    <Colour>Red</Colour>
+    <Colour>Green</Colour>
+    <Colour>White</Colour>
+  </DefaultPalette>
+  <DefaultShowGridLines>true</DefaultShowGridLines>
+  <HorizontalBlockDividers>0</HorizontalBlockDividers>
+  <VerticalBlockDividers>0</VerticalBlockDividers>
+  <DefaultZoom>6</DefaultZoom>
+  <HasSetExportSettings>true</HasSetExportSettings>
+  <SpriteLayout>RowMajor</SpriteLayout>
+  <ShouldBreakSprites>false</ShouldBreakSprites>
+  <SubSpriteWidth>2</SubSpriteWidth>
+  <SubSpriteHeight>2</SubSpriteHeight>
+  <ShouldExportSeparateMask>false</ShouldExportSeparateMask>
+  <ShouldGenerateHeader>true</ShouldGenerateHeader>
+  <AssemblerSyntax>{n} = &amp;{v}</AssemblerSyntax>
+  <SpriteList>
+    <Sprite Name="Leaf 16 1" Width="16" Height="8">
+      <Bitmap>AAACAAIAAgICAgAAAgACAAACAAIAAgICAQICAgACAAACAAIAAgIBAgIBAgACAAICAAIAAgIAAgICAgIAAgIAAAIAAgACAgIBAgECAAIAAAAAAgICAAIBAgIBAgIAAgACAAAAAgIAAgICAgACAgACAAACAgIAAgIBAgECAgACAAI=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 16 2" Width="16" Height="8">
+      <Bitmap>AgACAAICAQICAQICAAICAAACAgICAgIBAgICAAICAAICAAACAAACAgICAAICAAIAAAICAgICAgICAQICAAIAAgAAAgAAAgECAgIAAgICAgAAAAIAAgICAgECAgACAgAAAgACAgIAAgICAgICAgACAAACAAIAAgECAgIAAgACAAI=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 16 3" Width="16" Height="8">
+      <Bitmap>AgACAgAAAgECAgIAAgACAAACAAICAgICAgEAAgACAAIAAAICAgACAgECAgACAgAAAAICAAICAgECAgACAgAAAgIAAAICAgICAgICAgACAgAAAgICAAIBAgECAAACAgAAAgACAAICAgICAgICAAICAAACAAICAAICAgECAgIAAAI=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 16 4" Width="16" Height="8">
+      <Bitmap>AgACAgICAQIBAgICAAICAAACAgACAgICAgIAAgICAAIAAAICAgACAgIBAgACAAIAAAIAAgACAgECAgICAAIAAgIAAgIAAgECAgECAgICAgAAAgIAAgICAgICAgACAAACAAAAAgIAAgIBAgACAgICAAACAgAAAgECAgECAgACAAA=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 16 0" Width="16" Height="8">
+      <Bitmap>AgACAgAAAgECAgIAAgACAAACAAICAgICAgIAAgACAAIAAAICAgACAgECAgACAgAAAAICAAICAgECAQACAgAAAgAAAAICAgICAgICAgACAgAAAAICAAIBAgECAAACAgAAAAAAAAICAgECAQICAAAAAAAAAAAAAAEBAgEAAAAAAAA=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 4 1" Width="4" Height="8">
+      <Bitmap>AgIBAgACAgACAQICAAICAAICAgAAAgECAgICAAICAgI=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 4 2" Width="4" Height="8">
+      <Bitmap>AgICAgICAQAAAgICAgACAAACAQICAgICAgECAAACAgI=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 4 3" Width="4" Height="8">
+      <Bitmap>AgACAAACAgICAgEAAAICAgICAAACAQIAAAICAgICAgA=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 4 4" Width="4" Height="8">
+      <Bitmap>AgICAAACAgICAQICAAICAAICAgAAAgICAgIBAgICAgA=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 4 0" Width="4" Height="8">
+      <Bitmap>AgICAgACAgACAgICAAICAAICAgICAgIAAAIBAAABAgA=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 4 5" Width="4" Height="8">
+      <Bitmap>AAAAAAACAAAAAgIAAAICAAICAAICAgIAAAICAgICAgA=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 3 1" Width="4" Height="8">
+      <Bitmap>AAACAgACAgAAAgICAAACAAACAgAAAAICAAACAgACAgA=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 3 2" Width="4" Height="8">
+      <Bitmap>AAICAAAAAgIAAAIAAAICAgACAgIAAAIAAAICAgAAAgA=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 3 3" Width="4" Height="8">
+      <Bitmap>AAICAAAAAgIAAgICAAACAAACAgIAAAIAAAIAAgACAgA=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 3 4" Width="4" Height="8">
+      <Bitmap>AAICAgAAAgIAAgIAAAICAgAAAgAAAAICAAICAAAAAgA=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 3 0" Width="4" Height="8">
+      <Bitmap>AAACAgACAgAAAgACAAACAAACAgIAAAICAAACAAAAAQA=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Leaf 3 5" Width="4" Height="8">
+      <Bitmap>AAAAAAAAAAAAAAIAAAACAAACAgIAAAIAAAIAAgACAgA=</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="leaf 12 1" Width="12" Height="8">
+      <Bitmap>AAACAAIBAgACAAIAAAAAAgACAgIAAgAAAAICAgICAQICAgAAAAACAAIBAgIAAgIAAAIAAgACAgACAAIAAAACAgIBAgICAgAAAAICAAACAQIAAgAAAAIAAgICAgACAAIA</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="leaf 12 2" Width="12" Height="8">
+      <Bitmap>AAIAAgACAgICAgAAAAACAAIBAgAAAgIAAAICAgICAQICAAAAAAACAgACAgAAAgIAAAIAAgICAgICAAAAAAICAAIBAgACAgAAAAACAgICAgICAAIAAAIAAgACAQIAAgAA</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="leaf 12 3" Width="12" Height="8">
+      <Bitmap>AAICAgICAQIAAgAAAAAAAgACAgICAAIAAAICAAICAgACAgAAAAIAAgICAgIAAAIAAAAAAAIBAgICAAIAAAICAAICAgACAgAAAAIAAgACAgIAAAIAAAACAAIBAgICAAAA</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="leaf 12 4" Width="12" Height="8">
+      <Bitmap>AAAAAgACAgICAgAAAAICAAICAQIAAAIAAAACAgIBAgICAAIAAAIAAgACAgACAgAAAAACAAIBAQICAAIAAAACAgICAgAAAgAAAAIAAAIBAgICAgAAAAACAgACAgACAAIA</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="leaf 12 0" Width="12" Height="8">
+      <Bitmap>AAACAAICAgACAAIAAAAAAgABAgIAAgAAAAICAgICAgICAgAAAAACAAICAQIAAgIAAAAAAgACAgACAAAAAAACAgIBAgICAgAAAAAAAgACAQIAAAAAAAAAAgECAgECAAAA</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="leaf 12 5" Width="12" Height="8">
+      <Bitmap>AAAAAAAAAAAAAAAAAAAAAAACAgAAAAAAAAAAAAICAgIAAAAAAAAAAgACAgACAAAAAAACAgICAgICAgAAAAACAAIBAgACAAAAAAACAgICAgICAgAAAAIAAgACAQIAAgIA</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 8 1" Width="8" Height="8">
+      <Bitmap>AQEAAQABAAEBAQABAAEAAQEBAQEBAQABAQEBAQEBAAEBAQABAQEBAQEBAAEAAQEBAQEAAQABAQEBAQEBAAEBAQ==</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 8 2" Width="8" Height="8">
+      <Bitmap>AQEBAQEBAQEBAQEBAQEBAQEBAQEAAQEBAQEBAQABAAEBAQEBAAEAAQEBAAEAAQABAQEAAQEBAAEBAQABAQEAAQ==</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 8 3" Width="8" Height="8">
+      <Bitmap>AQEAAQABAQEBAQABAAEAAQEBAAEBAQABAQEBAQEBAAEBAQEBAQEAAQEBAQEAAQEBAQEBAQABAQEBAQEBAAEBAQ==</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 8 4" Width="8" Height="8">
+      <Bitmap>AQEAAQEBAAEBAQABAQEAAQEBAAEBAQEBAQEAAQABAQEBAQEBAAEBAQEBAQEAAQEBAQEBAQABAAEBAQEBAAEAAQ==</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 8 0" Width="8" Height="8">
+      <Bitmap>AQEAAQEBAAEBAQABAQEAAQEBAAEAAQEBAQEBAQABAQEBAQEBAAEBAQEBAQEAAQEBAAEBAQEBAQAAAAABAQAAAA==</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 2 1" Width="4" Height="8">
+      <Bitmap>AAEBAAABAQAAAQEAAAEBAAABAQAAAQEAAAEBAAABAQA=</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 2 2" Width="4" Height="8">
+      <Bitmap>AAEBAAABAQAAAQEAAAEBAAABAQAAAQEAAAEBAAABAQA=</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 2 3" Width="4" Height="8">
+      <Bitmap>AAEBAAABAQAAAQEAAAEBAAABAQAAAQEAAAEBAAABAQA=</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 2 4" Width="4" Height="8">
+      <Bitmap>AAEBAAABAQAAAQEAAAEBAAABAQAAAQEAAAEBAAABAQA=</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 1 1" Width="4" Height="8">
+      <Bitmap>AAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQA=</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 1 2" Width="4" Height="8">
+      <Bitmap>AAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQA=</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 1 3" Width="4" Height="8">
+      <Bitmap>AAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQA=</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 1 4" Width="4" Height="8">
+      <Bitmap>AAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQA=</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="trunk 12 1" Width="12" Height="8">
+      <Bitmap>AQEBAQABAQABAQABAQEBAQABAQABAQABAQABAQEBAQEBAQABAQABAQEBAQEBAQABAQABAQABAQEBAQEBAQABAQABAQABAQEBAQABAQABAQABAQEBAQEBAQEBAQABAQEB</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="trunk 12 2" Width="12" Height="8">
+      <Bitmap>AQABAQEBAQEBAQEBAQABAQEBAQEBAQEBAQABAQEBAQABAQEBAQABAQEBAQABAQABAQABAQEBAQABAQABAQEBAQABAQABAQABAQEBAQABAQEBAQABAQEBAQABAQEBAQAB</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="trunk 12 3" Width="12" Height="8">
+      <Bitmap>AQABAQABAQABAQEBAQABAQABAQABAQABAQEBAQABAQEBAQABAQEBAQABAQEBAQABAQEBAQEBAQEBAQABAQEBAQEBAQABAQEBAQABAQEBAQABAQEBAQABAQEBAQABAQEB</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="trunk 12 4" Width="12" Height="8">
+      <Bitmap>AQEBAQABAQEBAQABAQABAQABAQEBAQABAQABAQABAQEBAQEBAQEBAQEBAQABAQEBAQEBAQEBAQABAQEBAQABAQEBAQABAQEBAQABAQEBAQABAQABAQABAQEBAQABAQAB</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="trunk 12 0" Width="12" Height="8">
+      <Bitmap>AQEBAQABAQEBAQABAQEBAQABAQEBAQABAQEBAQABAQABAQEBAAEBAQABAQABAQEAAAEBAQEBAQABAQEAAAABAQEBAQEBAQAAAAAAAQEBAQEBAAAAAAAAAAABAQAAAAAA</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 4 1" Width="4" Height="8">
+      <Bitmap>AQEAAQEBAQEBAQEBAQEAAQEBAAEBAQEBAQEBAQEBAQE=</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 4 4" Width="4" Height="8">
+      <Bitmap>AQEAAQEBAQEBAQEBAQEAAQEBAAEBAQEBAQEBAQEBAAE=</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 4 2" Width="4" Height="8">
+      <Bitmap>AQEBAQEBAAEBAQABAQEBAQEBAQEBAQABAQEAAQEBAAE=</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 4 3" Width="4" Height="8">
+      <Bitmap>AQEBAQEBAQEBAQEBAQEAAQEBAAEBAQABAQEBAQEBAQE=</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Trunk 4 0" Width="4" Height="8">
+      <Bitmap>AQEAAQEBAAEBAQEBAQEBAQEBAAEBAQABAQEBAQABAQA=</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Green</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+  </SpriteList>
+</SpriteSheet>

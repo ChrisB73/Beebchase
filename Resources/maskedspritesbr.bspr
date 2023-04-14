@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpriteSheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Mode="5">
+  <BackgroundColour>Transparent</BackgroundColour>
+  <DefaultPalette>
+    <Colour>Green</Colour>
+    <Colour>Red</Colour>
+    <Colour>Blue</Colour>
+    <Colour>White</Colour>
+  </DefaultPalette>
+  <DefaultShowGridLines>true</DefaultShowGridLines>
+  <HorizontalBlockDividers>1</HorizontalBlockDividers>
+  <VerticalBlockDividers>1</VerticalBlockDividers>
+  <DefaultZoom>8</DefaultZoom>
+  <HasSetExportSettings>true</HasSetExportSettings>
+  <SpriteLayout>RowMajor</SpriteLayout>
+  <ShouldBreakSprites>false</ShouldBreakSprites>
+  <SubSpriteWidth>2</SubSpriteWidth>
+  <SubSpriteHeight>2</SubSpriteHeight>
+  <ShouldExportSeparateMask>false</ShouldExportSeparateMask>
+  <ShouldGenerateHeader>true</ShouldGenerateHeader>
+  <AssemblerSyntax>{n} = &amp;{v}</AssemblerSyntax>
+  <SpriteList>
+    <Sprite Name="Far Left2" Width="8" Height="8">
+      <Bitmap>//8CAf////////8C//////8CAQIB//////8CAQL/////AgECAQL///8BAv8CAf////8B/wH//////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Med Left2" Width="8" Height="8">
+      <Bitmap>////AgH///////8BAv////8CAQIB//////8CAQIB/////wECAQIB////Av8C/wL///8B/wECAf///wL//wH//w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Near Left2" Width="8" Height="16">
+      <Bitmap>/wH/////////AgH//////wIBAgH/////AQIBAgH/////AQIB//////8CAQIB//////8CAQL///////8CAf///////wEC/////////wEC////////Av////////////////////////////////////////////////////////8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Range Left2" Width="8" Height="16">
+      <Bitmap>/wIB////////AQIB//////8CAQIB////AgECAQIBAv8BAgECAQIB/wIBAgECAf8BAQIBAgECAf8CAQIBAgEC//8CAQIBAgH//wECAQIBAv8BAgECAQIBAv8BAgECAQL/////AgECAf///////wEC////////AgEC////////AgE=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Far Centre2" Width="8" Height="8">
+      <Bitmap>//////////////8B/////////wL///////8CAQL///////8C/////////wH/////////Av///////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Med Centre2" Width="8" Height="8">
+      <Bitmap>////Af///////wECAf////8BAgECAf////8BAgH///////8B/////////wL/////////Af////////8C/////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Near Centre2" Width="8" Height="16">
+      <Bitmap>////AgH///////8BAv//////AQIBAv////8CAQIB////AgECAQIB////AgECAf////8BAgEC//////8BAv///////wIB////////AQL///////8CAf///////wEC//////////////////////////////////////////////8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Range Centre2" Width="8" Height="16">
+      <Bitmap>////AgH///////8BAv//////AQIBAv////8CAQIB////AgECAQIB//8BAgECAQL//wIBAgECAf//AQIBAgEC////AQIBAv////8CAQIB//////8CAf//////AgECAf//////AgH///////8BAv///////wIB////////AQL///8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Far Right2" Width="8" Height="8">
+      <Bitmap>////AgH///////8B////////AQIBAv////8CAQL/////AgECAQL///8BAv8CAf////8B/wH//////////////w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Med Right2" Width="8" Height="8">
+      <Bitmap>////AQL///////8CAf///////wECAQL///8BAgEC////AQIBAgH///8C/wL/Av///wECAf8B/////wH//wL//w==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Near Right2" Width="8" Height="16">
+      <Bitmap>////////Af///////wEC//////8BAgEC////AQIBAgH/////AQIB/////wECAQL/////AgEC//////8BAv///////wIB//////8CAf////////8C//////////////////////////////////////////////////////////8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Range Right2" Width="8" Height="16">
+      <Bitmap>//////8BAv//////AQIB/////wECAQL//wIBAgECAQL/AQIBAgECAQH/AQIBAgEC/wECAQIBAgH/AgECAQIBAv8BAgECAQL//wIBAgECAf8CAQIBAgECAf8CAQIBAgH//wECAQL/////AgH//////wIBAv//////AQL///////8=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+  </SpriteList>
+</SpriteSheet>

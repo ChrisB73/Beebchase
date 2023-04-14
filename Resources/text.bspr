@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpriteSheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Mode="5">
+  <BackgroundColour>Transparent</BackgroundColour>
+  <DefaultPalette>
+    <Colour>Green</Colour>
+    <Colour>Red</Colour>
+    <Colour>Blue</Colour>
+    <Colour>White</Colour>
+  </DefaultPalette>
+  <DefaultShowGridLines>true</DefaultShowGridLines>
+  <HorizontalBlockDividers>0</HorizontalBlockDividers>
+  <VerticalBlockDividers>0</VerticalBlockDividers>
+  <DefaultZoom>6</DefaultZoom>
+  <HasSetExportSettings>true</HasSetExportSettings>
+  <SpriteLayout>RowMajor</SpriteLayout>
+  <ShouldBreakSprites>false</ShouldBreakSprites>
+  <SubSpriteWidth>2</SubSpriteWidth>
+  <SubSpriteHeight>2</SubSpriteHeight>
+  <ShouldExportSeparateMask>false</ShouldExportSeparateMask>
+  <ShouldGenerateHeader>true</ShouldGenerateHeader>
+  <AssemblerSyntax>{n} = &amp;{v}</AssemblerSyntax>
+  <SpriteList>
+    <Sprite Name="Patrol" Width="32" Height="8">
+      <Bitmap>AAAAAgICAAAAAgIAAAICAgACAgIAAAACAgAAAgAAAAAAAAACAAACAAIAAAIAAAIAAAIAAAIAAgAAAgACAAAAAAAAAAIAAAIAAgAAAgAAAgAAAgAAAgACAAACAAIAAAAAAAAAAgICAAACAgICAAACAAACAgIAAAIAAAIAAgAAAAAAAAACAAAAAAIAAAIAAAIAAAICAAAAAgAAAgACAAAAAAAAAAIAAAAAAgAAAgAAAgAAAgACAAACAAACAAIAAAAAAAAAAgAAAAACAAACAAACAAACAAACAAIAAAIAAgAAAAAAAAACAAAAAAIAAAIAAAIAAAIAAAIAAAICAAACAgICAA==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Day" Width="16" Height="8">
+      <Bitmap>AAAAAgICAAAAAgIAAAIAAgAAAAIAAAIAAgAAAgACAAIAAAACAAACAAIAAAIAAgACAAAAAgAAAgACAgICAAACAAAAAAIAAAIAAgAAAgAAAgAAAAACAAACAAIAAAIAAAIAAAAAAgAAAgACAAACAAACAAAAAAICAgAAAgAAAgAAAgA=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Night" Width="24" Height="8">
+      <Bitmap>AAIAAAACAAICAgAAAgICAAIAAAIAAgICAAICAAACAAACAAACAAAAAAIAAAIAAAIAAAICAAACAAACAAACAAAAAAIAAAIAAAIAAAIAAgACAAACAAACAAAAAAICAgIAAAIAAAIAAAICAAACAAACAAICAAIAAAIAAAIAAAIAAAICAAACAAACAAACAAIAAAIAAAIAAAIAAAACAAACAAACAAACAAIAAAIAAAIAAAIAAAACAAICAgAAAgIAAAIAAAIAAAIA</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Sector" Width="32" Height="8">
+      <Bitmap>AwMDAwICAwMCAgICAwMCAgMDAgICAwMCAgMDAgICAwMDAwMCAwMCAwIDAwMDAgMDAgMDAgMDAgMDAgMCAwMCAwMDAwIDAwMDAgMDAwMCAwMDAwMCAwMCAwMCAwIDAwIDAwMDAwIDAwMCAgIDAwIDAwMDAwIDAwIDAwIDAgICAwMDAwMDAwIDAgMDAwMCAwMDAwMCAwMCAwMCAwICAwMDAwMDAwMDAgMCAwMDAwIDAwMDAwIDAwIDAwIDAgMCAwMDAwMCAwMCAwIDAwMDAgMDAgMDAgMDAgMDAgMCAwMCAwMDAwMCAgMDAgICAgMDAgIDAwMCAwMDAgIDAwIDAwIDAw==</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Speed" Width="52" Height="8">
+      <Bitmap>AQEDAwEBAwEBAwEDAwMBAQMDAwMBAwMDAQEBAQMDAQEDAwMBAQMDAwMBAwMDAwEDAwMBAQEDAQEDAQMBAQMBAwEBAwEDAQEBAQMBAQMBAQMBAQMBAwEBAwEDAQEBAQMBAQEBAwEBAwEBAwEBAQEDAQEDAQMBAQMBAwEBAQEDAQEDAQEDAQEBAQMBAQMBAwEBAQEDAQEBAQMBAQMBAQEDAwEBAwEBAwEDAwMBAQMDAwEBAwMDAQEBAQMDAQEDAwMBAQMDAwEBAwMDAQEDAQEDAQEBAQEDAQMBAQMBAwEBAQEDAQEBAQMDAQEBAQEBAQMBAwEBAQEDAQEBAQMBAQEBAwEBAwEBAQEBAwEDAQEDAQMBAQEBAwEBAQEDAQMBAQEBAQEDAQMBAQEBAwEBAQEDAQEBAQMBAQMBAQMBAQMBAwEBAwEDAQEBAQMBAQEBAwEBAwEBAwEBAwEDAQEBAQMBAQEBAwEBAQEDAQEDAQEBAwMBAQEDAwEBAwEBAQEDAwMDAQMBAQMBAQEDAwEBAwEBAQEDAwMDAQMDAwMBAwMDAQE=</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="GameOver" Width="48" Height="8">
+      <Bitmap>AwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAQEDAwMBAQMDAQMDAwEDAQEBAQMDAwMDAQEDAwEDAwMBAwEBAQEDAQEBAwMDAwMBAwMBAwEDAwEDAQEDAQEDAQMDAwMDAwMBAwMBAwEDAwMBAwEDAwMDAQMDAQMDAwMBAwMDAwEDAwEDAQEDAQEDAQMDAwMDAwMBAwMBAwEDAwMBAwEDAwMDAQMDAQMDAwMBAwMDAwEBAQEDAQMBAwEDAQEBAwMDAwMBAwMBAwMBAwEDAwEBAQMDAQEBAwMD</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="GameOver2" Width="48" Height="8">
+      <Bitmap>AwMBAwMDAwEDAwEDAQMDAwEDAQMDAwMDAwMBAwMBAwMBAwEDAwEDAwMDAQEDAwMDAwMBAwEBAwEDAwEDAQMDAwEDAQMDAwMDAwMBAwMBAwMBAwEDAwEDAwMDAQMBAwMDAwMBAwMBAwEDAwEDAQMDAwEDAQMDAwMDAwMBAwMBAwMDAQMDAwEDAwMDAQMDAQMDAwMDAQEDAwEDAwEDAQMDAwEDAQEBAQMDAwMDAQEDAwMDAQMDAwEBAQEDAQMDAQMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD</Bitmap>
+      <Palette>
+        <Colour>Green</Colour>
+        <Colour>Red</Colour>
+        <Colour>Blue</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+  </SpriteList>
+</SpriteSheet>

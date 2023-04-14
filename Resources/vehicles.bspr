@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpriteSheet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Mode="5">
+  <BackgroundColour>Transparent</BackgroundColour>
+  <DefaultPalette>
+    <Colour>Black</Colour>
+    <Colour>Red</Colour>
+    <Colour>Yellow</Colour>
+    <Colour>White</Colour>
+  </DefaultPalette>
+  <DefaultShowGridLines>true</DefaultShowGridLines>
+  <HorizontalBlockDividers>0</HorizontalBlockDividers>
+  <VerticalBlockDividers>0</VerticalBlockDividers>
+  <DefaultZoom>6</DefaultZoom>
+  <HasSetExportSettings>true</HasSetExportSettings>
+  <SpriteLayout>RowMajor</SpriteLayout>
+  <ShouldBreakSprites>false</ShouldBreakSprites>
+  <SubSpriteWidth>2</SubSpriteWidth>
+  <SubSpriteHeight>2</SubSpriteHeight>
+  <ShouldExportSeparateMask>false</ShouldExportSeparateMask>
+  <ShouldGenerateHeader>true</ShouldGenerateHeader>
+  <AssemblerSyntax>{n} = &amp;{v}</AssemblerSyntax>
+  <SpriteList>
+    <Sprite Name="Tank" Width="12" Height="8">
+      <Bitmap>AAAAAAADAwAAAAAAAAAAAAMDAwMDAwMDAAAAAwMDAwAAAAAAAAAAAAMDAAAAAAAAAAMDAwMDAwMDAwMDAwMAAAAAAAAAAAADAAMDAwMDAwMDAwMAAAADAwMAAAMDAwAA</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Yellow</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Chopper" Width="12" Height="8">
+      <Bitmap>AAAAAAADAwAAAAAAAAADAwMDAwMDAwMAAAAAAAAAAwAAAAAAAAMAAAADAwMAAAAAAwMDAwMDAwMDAAAAAwAAAwMDAwMDAwMAAAAAAAADAwMDAwMDAAAAAAAAAwMDAwMA</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Yellow</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Explosion" Width="12" Height="8">
+      <Bitmap>AAAAAwMDAwMDAAAAAAADAAMAAwADAwAAAAMAAwEDAQMBAwMAAwMDAQMBAwEDAAMDAAMAAwEDAQMBAwMAAAADAQMBAwEDAAMAAAADAwADAAMAAwAAAAAAAwMDAwMDAAAA</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Yellow</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Cloud" Width="12" Height="8">
+      <Bitmap>AAAAAAAAAAMDAAAAAAAAAAAAAwMDAwAAAAMDAAADAwMDAwAAAwMDAwADAwMDAwAAAwMDAwADAwMDAAMDAwMDAwMAAwMDAwMDAwMDAwMDAwMDAwMDAAMDAwMDAwMDAwMA</Bitmap>
+      <Palette>
+        <Colour>Cyan</Colour>
+        <Colour>Red</Colour>
+        <Colour>Yellow</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+    <Sprite Name="Moon" Width="12" Height="24">
+      <Bitmap>AAAAAwMDAwAAAAAAAAAAAAADAwMAAAAAAAAAAAAAAwMDAAAAAAAAAAAAAwMDAwAAAAAAAAAAAAMDAwAAAAAAAAAAAAMDAwMAAAAAAAAAAAMDAwMAAAAAAAAAAAMDAwMAAAAAAAAAAAADAwMDAAAAAAAAAAADAwMDAAAAAAAAAAADAwMDAAAAAAAAAAADAwMDAAAAAAAAAAADAwMDAAAAAAAAAAADAwMDAAAAAAAAAAADAwMDAAAAAAAAAAADAwMDAAAAAAAAAAMDAwMAAAAAAAAAAAMDAwMAAAAAAAAAAAMDAwMAAAAAAAAAAAMDAwAAAAAAAAAAAwMDAwAAAAAAAAAAAwMDAAAAAAAAAAADAwMAAAAAAAAAAwMDAwAAAAAA</Bitmap>
+      <Palette>
+        <Colour>Black</Colour>
+        <Colour>Red</Colour>
+        <Colour>Yellow</Colour>
+        <Colour>White</Colour>
+      </Palette>
+    </Sprite>
+  </SpriteList>
+</SpriteSheet>
