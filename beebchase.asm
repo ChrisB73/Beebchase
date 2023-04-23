@@ -2,9 +2,9 @@
 ; Game heavily inspired by/based on Deathchase by Mervyn Estcourt
 ; BBC Model B/B+/Master
 
-    include "constants.6502"        ; Constants and uninitialised data
+    include "constants.asm"        ; Constants and uninitialised data
 
-    include "zpdata.6502"           ; Zero Page Data
+    include "zpdata.asm"           ; Zero Page Data
 
 org &3000-3
     jmp start               ; Known position for game entry to allow for code decompressions
@@ -13,17 +13,17 @@ incbin "scoreboard.bin"     ; Scoreboard needs to be at &3000 to allow for scree
 .spritestart
 incbin "sprites.bin"        ; Sprites are here so they don't go over a page
 
-include "multtables.6502"   ; Need to be next to sprites for alignment
+include "multtables.asm"   ; Need to be next to sprites for alignment
 
-include "irq.6502"          ; IRQ Routines
+include "irq.asm"          ; IRQ Routines
 
-include "support.6502"      ; Game routines
+include "support.asm"      ; Game routines
 
-include "numbers.6502"      ; Number plot routines
+include "numbers.asm"      ; Number plot routines
 
 .start
     ; Assumes we have started in mode 1 for the wrap setup
-include "init.6502"         ; initial setup - only run once 
+include "init.asm"         ; initial setup - only run once 
 
 .newgameloop                ; Main game loop
     jsr newgame             ; Reset game variables
@@ -973,7 +973,7 @@ incbin "extrasprites.bin"
 textstart=P%-1
 incbin "text.bin"
 
-include "distancetables.6502"
+include "distancetables.asm"
 
 
 .numbers
@@ -982,7 +982,7 @@ inrangesprite=numbers+&140
 notinrangesprite=numbers+&150
 
 
-include "sounds.6502"
+include "sounds.asm"
 
 
 
@@ -993,7 +993,7 @@ incbin "vehicles.bin"
 print "Vehicles",~vehiclesprites,~P%
 
 
-include "spritetables.6502"
+include "spritetables.asm"
 
 
 

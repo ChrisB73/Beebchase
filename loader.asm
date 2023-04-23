@@ -8,7 +8,7 @@ puttext "bootfile.txt","!Boot",0
 
 putfile "$.beeb","Beeb",&FF1900,&FF8023   ; Pre-crunched Basic
 
-include "titleload.6502"
+include "titleload.asm"
 
 puttext "Story.txt","Story",0
 
