@@ -1,6 +1,6 @@
 #
 # Beebchase
-A Reimplmentation of Deatchchase by Marvyn Estourt for the BBC Micro
+A Reimplmentation of Deatchchase by Marvyn Estcourt for the BBC Micro
 #
 Build.sh1 uses the [BeebAsm](https://github.com/stardot/beebasm) assembler and the [lzsa](https://github.com/emmanuel-marty/lzsa) compressor which is also used in the code.\
 \
